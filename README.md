@@ -1,10 +1,9 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://harundogdu.com">Kübra Öçal</a></h1>
+   <h1>Hi there, I'm>Kübra Öçal</a></h1>
 </div>
 
 
 <div align="center">
-   <h3 align="center">My Stats:</h3>
 <a href="https://github.com/kubraaocal">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kubraaocal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kubraaocal&layout=compact&langs_count=8&theme=tokyonight"/>
