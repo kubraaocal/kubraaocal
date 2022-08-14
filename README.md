@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hi there, I'm <a href="https://harundogdu.com">Kübra Öçal</a></h1>
+</div>
 
-<!--
-**kubraaocal/kubraaocal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+   <h3 align="center">My Stats:</h3>
+<a href="https://github.com/kubraaocal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kubraaocal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kubraaocal&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+   
+   ### 🤝🏻 &nbsp;Connect with Me 🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/kubraocal" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kubraocal">
+</a>
+<a href="mailto:kubraaocall@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:kubraaocall@gmail.com">
+</a>
+   
+   ### 🤝🏻 &nbsp;Support Me 🤝
+<a href="https://www.buymeacoffee.com/harundogdu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
