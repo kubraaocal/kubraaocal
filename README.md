@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kubraaocal&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
    
-   ### 🤝🏻 &nbsp;Connect with Me 🤝
+   ### 🏻 &nbsp;Connect with Me 
 
 <a href="https://www.linkedin.com/in/kubraocal" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kubraocal">
@@ -18,7 +18,4 @@
 <a href="mailto:kubraaocall@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:kubraaocall@gmail.com">
 </a>
-   
-   ### 🤝🏻 &nbsp;Support Me 🤝
-<a href="https://www.buymeacoffee.com/harundogdu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
